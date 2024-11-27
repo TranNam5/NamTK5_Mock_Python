@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="logo">
+        <file>setting.png</file>
+        <file>fpt.png</file>
+    </qresource>
+</RCC>
